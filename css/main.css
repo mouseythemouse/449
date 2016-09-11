@@ -6,6 +6,7 @@ body {
     padding: 0px;
 }
 header {
+    padding: 0px;
     margin: 0px;
     position: relative;
     height: 100px;
@@ -18,6 +19,7 @@ header {
     background-color: black;
 }
 nav ul {
+    padding: 0px;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     list-style: none;
     font-weight: bold;
