@@ -69,7 +69,8 @@ h2 {
     float: left;
     width: 80%;
     height: 100%;
-    margin: 50px;
+    margin-left: 50px;
+    margin-top: 150px;
     background-color: #ffffcc;
 }
 p {
