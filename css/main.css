@@ -13,6 +13,7 @@ header {
     position: relative;
     text-align: center;
     color: red;
+    border: 2px solid black;
 }
 nav ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
@@ -67,4 +68,3 @@ p {
     line-height: 1.4em;
     color: #333;
 }
-
