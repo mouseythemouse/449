@@ -10,7 +10,7 @@ header {
     width: 200%;
     margin: 0px auto;
     font-size: 500%;
-    position: left;
+    position: relative;
     text-align: center;
     color: red;
 }
