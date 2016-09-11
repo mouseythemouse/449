@@ -7,6 +7,9 @@ header {
     border: 1px solid;
     width: 900 px;
     margin:0px auto;
+    background-image:purplelogo.png;
+    font-size: 500%;
+    position: center;
 }
 nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
