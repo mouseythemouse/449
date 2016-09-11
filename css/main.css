@@ -23,7 +23,7 @@ nav ul {
     height: 30px;
     margin: 0px auto;
     padding: 5px;
-    border: 2px solid black
+    border: 2px solid black;
 }
 nav ul li {
     display: inline;
