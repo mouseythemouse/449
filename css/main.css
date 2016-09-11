@@ -62,8 +62,9 @@ a:hover {
 }
 h2 {
     font-size: 3em;
+    font-weight: bold;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;
+    text-align: left;
 }
 .container {
     float: left;
