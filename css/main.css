@@ -24,11 +24,6 @@ nav ul li {
     display: inline;
     margin-right: 20px;
 }
-.img{
-    width:5px;
-    height:5px;
-    position:relative;
-}
 .dropdown {
     position: relative;
     display: inline-block;
