@@ -1,41 +1,29 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-		<!-- this guy is jekyll liquid tag-->
 			<title>{{ page.title }}</title>
-			<!-- css stylesheet -->
+			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/news">News</a></li>
-		        	<div class=dropAbout>
-		          	<li><a href="/about">About</a></li>
-	        		  	<div class="cAbout">
-	        		      <a href="/history">History</a>
-                    <a href="/mentors">Mentors</a>
-                    <a href="/achievements">Achievements</a>
-                    <a href="/students">Students</a>
-                    <a href="/robots">Robots</a>
-                  </div>
-              </div>
-	        		<li><a href="/media">Media</a></li>
-	        		<div class=dropComm>
-	        		  <li><a href="/community">Community</a></li>
-	        		    <div class=cComm>
-	        		      <a href="/outreach">Outreach</a>
-	        		    </div>
-	        		</div>
-	        		<li><a href="/sponsors">Sponsors</a></li>
-	        		  <li><a href="/contact">Contact</a></li>
+		        	<li><a href="/about">About</a></li>
+	        		<li><a href="/cv">CV</a></li>
+	        		<li><a href="/blog">Blog</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
 			
 			{{ content }}
 			
-			</div>
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
+	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+				</ul>
+			</footer>
 		</body>
 	</html>
