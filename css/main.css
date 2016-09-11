@@ -13,7 +13,6 @@ header {
     position: center;
     text-align: center;
     color: red;
-    background-image: url(purplelogo.png);
 }
 nav ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
@@ -24,6 +23,9 @@ nav ul {
 nav ul li {
     display: inline;
     margin-right: 20px;
+}
+.headr {
+    background-image: url(purplelogo.png);
 }
 .dropdown {
     position: relative;
