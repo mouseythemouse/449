@@ -4,12 +4,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-.header img {
-    float: left;
-    width: 100px;
-    height: 100px;
-}
-.header header {
+header {
     top: 0px;
     left: 0px;
     position: relative;
