@@ -13,7 +13,6 @@ header {
     position: relative;
     text-align: center;
     color: red;
-    float: left;
 }
 nav ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
