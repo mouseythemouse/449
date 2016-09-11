@@ -1,9 +1,8 @@
 /*dot for class, no dot for other stuff*/
 
 body {
-    margin: 0px auto;
+    margin: 0px;
     width: 70%;
-    margin-right: 0px auto;
 }
 header {
     margin: 0px auto;
