@@ -19,6 +19,13 @@ nav ul {
     padding: 20px;
     list-style: none;
     font-weight: bold;
+    float: left;
+    width: 1000px;
+    height: 500px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 2px solid yellow
 }
 nav ul li {
     display: inline;
